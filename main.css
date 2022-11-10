@@ -11,7 +11,7 @@ body{
     transform: translate(-50%,-50%);
 }
 i{
-    color: #000;
+    color: pink;
     font-size:100px;
     text-shadow:0 0 30px red, 0 0 70px pink;
     animation: heartbeat 0.8s infinite;
